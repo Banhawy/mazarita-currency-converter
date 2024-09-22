@@ -1,2 +1,2 @@
-# mazarita-currency-converter
-A terminal CLI that converts currencies
+# Mazarita Currency Converter
+A terminal CLI that converts currencies.
